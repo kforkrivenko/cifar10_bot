@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+*.env
+*.venv
+venv
+*.idea
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
