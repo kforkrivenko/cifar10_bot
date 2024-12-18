@@ -3,3 +3,8 @@ torchvision
 flask
 pyTelegramBotAPI
 pillow
+python-dotenv
+aiogram==2.23.1
+sqlalchemy
+pandas
+matplotlib
