@@ -9,6 +9,8 @@ env/
 venv
 *.idea
 .DS_Store
-
+/model/cifar10_model.pth
+/data
+input.jpg
 # Jupyter
 .ipynb_checkpoints/
