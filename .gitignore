@@ -14,3 +14,5 @@ venv
 input.jpg
 # Jupyter
 .ipynb_checkpoints/
+sites-enabled
+an4lo1.fvds.ru
