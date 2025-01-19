@@ -20,4 +20,4 @@
 
 ``` docker run -d -p 443:443 --restart unless-stopped cifar10_bot ```
 
-[Сайт проекта](http://79.174.12.177/)
+[Сайт проекта](https://an4lo1.fvds.ru/)
