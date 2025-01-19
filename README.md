@@ -18,6 +18,6 @@
 
 ``` docker build -t cifar10_bot .  ```
 
-``` docker run -d -p 443:443 --restart unless-stopped cifar10_bot ```
+``` docker run -d -p 8443:8443 --restart unless-stopped cifar10_bot ```
 
 [Сайт проекта](https://an4lo1.fvds.ru/)

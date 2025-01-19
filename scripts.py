@@ -39,6 +39,6 @@ def get_info():
     return f'''
         SELECT username, images, images_correct
         FROM messages
-        ORDER BY images
+        ORDER BY images DESC
     '''
 

@@ -29,7 +29,7 @@ WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
 
 # Настройки сервера
 WEBAPP_HOST = '0.0.0.0'
-WEBAPP_PORT = 443
+WEBAPP_PORT = 8443
 
 model = Net()
 model.load_state_dict(torch.load(MODEL_PATH, weights_only=True))
